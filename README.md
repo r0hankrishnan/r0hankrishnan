@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rohan
 
-## I'm a recent graduate from the University of Pittsburgh and huge tennis nerd 🎾 🤓 with a passion using data and analytics to drive positive change! 
+##### I'm a recent graduate from the University of Pittsburgh and huge tennis nerd 🎾 🤓 with a passion using data and analytics to drive positive change! 
 
 ### 🔑 Key Skills:
 - Querying data using SQL
