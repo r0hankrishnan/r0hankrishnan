@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A recent graduate passionate about using data and analytics to better understand our world and to drive positive change!</h3>
+<h2 align="center">I'm a recent graduate from the University of Pittsburgh with a passion using data and analytics to drive positive change!</h2>
 
-- 🌱 I’m currently learning **Advanced Python for data science**
+### 🔑 Key Skills:
+- Querying data using SQL
+- Manipulating, cleaning and analyzing data using **R** and/or **Python**
+- Developing, testing, and iterating through predictive and econometric statistical models using **R** and **Python**
+- Developing dashboards on Tableau or using RShiny
+- Analyzing data and generating reports using Excel and Google Sheets
 
-- 💬 Ask me about **R, Python, social impact data science, Tennis!**
+### 📽 Projects
+*This is currently a work in progress as I build out my profile but...* check out my portfolio to get a high-level overview of my projects!
 
-- 📫 How to reach me **rohan.krish20@gmail.com**
-
-- ⚡ Fun fact **I'm a huge tennis nerd!**
+### ⚙️ Tools
+- Languages: SQL, Python [Pandas, scikit-learn, Matplotlib, Numpy, Scipy, Seaborn], R [Tidyverse, Keras, Tidymodels, felm, RShiny, shinydashboard]
+- Databases: PostgreSQL, MySQL
+- Visualization: Tableau
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
