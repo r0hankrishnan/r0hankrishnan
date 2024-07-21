@@ -12,15 +12,21 @@
 *This is currently a work in progress as I build out my profile but...* check out my portfolio to get a high-level overview of my projects!
 
 ### ⚙️ Tools
-- Languages: SQL, Python [Pandas, scikit-learn, Matplotlib, Numpy, Scipy, Seaborn], R [Tidyverse, Keras, Tidymodels, felm, RShiny, shinydashboard]
+- Languages:
+  - SQL
+  - Python [Pandas, scikit-learn, Matplotlib, Numpy, Scipy, Seaborn]
+  - R [Tidyverse, Ggplot, Keras, Tidymodels, felm, RShiny, shinydashboard]
 - Databases: PostgreSQL, MySQL
-- Visualization: Tableau
+- Visualization: Tableau, R, Python
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+### 🗣 Connect with Me
+- LinkedIn[https://linkedin.com/in/rohankrish]
+- Medium[https://medium.com/@rohan.krishnan]
+- 
 <p align="left">
 <a href="https://linkedin.com/in/rohankrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohankrish" height="30" width="40" /></a>
 <a href="https://medium.com/@rohan.krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohan.krishnan" height="30" width="40" /></a>
