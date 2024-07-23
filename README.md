@@ -10,7 +10,7 @@
 - Analyzing data and generating reports using Excel and Google Sheets
 
 ### 📽 Projects:
-*This is currently a work in progress as I build out my profile but...* check out my portfolio to get a high-level overview of my projects!
+*This is currently a work in progress as I build out my profile but...* check out my portfolio to get a high-level overview of my [projects](https://github.com/r0hankrishnan/portfolio/blob/main/README.md)!
 
 ### ⚙️ Tools:
 - Languages:
