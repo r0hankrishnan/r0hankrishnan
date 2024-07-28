@@ -3,11 +3,11 @@
 #### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm also a huge tennis nerd 🎾 🤓 and self-learner with a passion using data and analytics to drive positive change! 
 
 ### 🔑 Key Skills:
-- Querying data using SQL
+- Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
 - Developing, testing, and iterating through predictive and econometric statistical models using **R** and **Python**
-- Developing dashboards on Tableau or using RShiny
-- Analyzing data and generating reports using Excel and Google Sheets
+- Developing dashboards on **Tableau** or using **RShiny**
+- Analyzing data and generating reports using **Excel** and **Google Sheets**
 
 ### 📽 Projects:
 *This is currently a work in progress as I build out my profile but...* check out my [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to get a high-level overview of my projects!
