@@ -32,4 +32,5 @@
 ### 🗣 Connect with Me
 - Connect with me on [LinkedIn](https://linkedin.com/in/rohankrish)
 - Follow my learning journey on [Medium](https://medium.com/@rohan.krishnan)
-- Email me at rohan.krish20@gmail.com
+- Check out some of my work on [Tableau Public](https://public.tableau.com/app/profile/rohan.krishnan4713/vizzes)
+- Send me an [email](mailto:rohan.krish20@gmail.com)
