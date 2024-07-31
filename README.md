@@ -25,7 +25,7 @@
   - [Finish CS50P](https://github.com/r0hankrishnan/cs-50-python)
   - Freecodecamp Data Analysis with Python
   - Freecodecamp Scientific Computing with Python
-- Complete the 8 Week SQL Challenge
+- [Complete the 8 Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql)
 - Learn and implement the Python web app framework, Streamlit
 - Build out an end-to-end data science project using an api
 
