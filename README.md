@@ -20,8 +20,9 @@
 | 📈 [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Python Prgramming, Tableau Dashboarding | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard. | python, pandas, tableau |
 
 #### Coming Soon
-| Project Link | Area | Description | Libraries |
-|--------------|------|-------------|------------|
+| Project Link | Technology |  Area | Description | Libraries |
+|--------------|------------|-------|-------------|-----------|
+| 🏈 [NFL Playoff Predictor](https://github.com/r0hankrishnan/nfl) *Ongoing* | Python Progamming & Dashboarding | Data Collection, Data Wrangling & EDA, Predictive Modelling | Using self-collected data on the characteristics of NFL teams that make the playoffs, create visualizations, analyses, and predictive models with the goal of predicting a team's chance of making the playoffs based on their regular season performance. | pandas, matplotlib, seaborn, scikit-learn |
 
 ### ⚙️ Tools:
 - Languages:
