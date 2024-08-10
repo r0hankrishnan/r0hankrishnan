@@ -10,7 +10,17 @@
 - Analyzing data and generating reports using **Excel** and **Google Sheets**
 
 ### 📽 Projects:
-*This is currently a work in progress as I build out my profile but...* check out my [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to get a high-level overview of my projects!
+*This is currently a highlight of my most recent completed projects as I build out my profile, you can check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
+
+#### Completed
+| Project Link | Technology | Area | Description | Libraries |
+|--------------|------------|------|-------------|-----------|
+| 🎸 [Song Popularity Prediction](https://github.com/r0hankrishnan/song-popularity) | R Programming & Dashboarding | Data Cleaning, EDA,  Predictive Modelling & Fine-Tuning, Dashboarding | Used R to clean, analyze, and visualize a dataset of 1200 songs with 19 characteristics. Tested several models to find which best predicted a song's popularity. Also used RShiny to create a song popularity prediction dashboard. | dplyr,  ggplot2, felm, gbm, randomForest, broom, Rshiny, leaps, glmnet |
+| 🏠 [US Housing Analysis](https://github.com/r0hankrishnan/us-housing-analysis) | R Programming & Dashboarding | Data Cleaning, EDA, Predicitve Modelling & Fine-Tuning, Reporting | Conducted an analysis of the US housing market by combining and analyzing three datasets from Kaggle.com. Created several machine learning models to predict housing price index and to used clustering techniques to further explore the data. Created simple R shiny dashboard to visualize clustering.| dplyr, ggplot2, kable, MASS, broom, modelr, purr, rpart, randomForest, caret, factoextra, cluster, Rshiny |
+
+#### Coming Soon
+| Project Link | Area | Description | Libraries |
+|--------------|------|-------------|------------|
 
 ### ⚙️ Tools:
 - Languages:
