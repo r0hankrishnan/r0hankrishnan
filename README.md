@@ -28,7 +28,7 @@
 ### ⚙️ Tools:
 - Languages:
   - SQL
-  - Python [Pandas, scikit-learn, Matplotlib, Numpy, Scipy, Seaborn]
+  - Python [Pandas, scikit-learn, Matplotlib, Numpy, Scipy, Seaborn, streamlit]
   - R [Tidyverse, Ggplot, Keras, Tidymodels, felm, RShiny, shinydashboard]
 - Databases: PostgreSQL, MySQL
 - Visualization: Tableau, R, Python
