@@ -23,7 +23,7 @@
 #### Coming Soon
 | Project Link | Technology |  Area | Description | Libraries |
 |--------------|------------|-------|-------------|-----------|
-| 🚗 [CarMax Analytics](https://github.com/r0hankrishnan/carmax) *Ongoing* | Python Programming & Dashboarding | Data Cleaning, EDA, Predictive Modelling, Dimensionality Reduction | (*In process of being reformatted and converted from R to Python*)  Using CarMax trade-in data from the **CarMax Analytics Case Competition**, conducted data cleaning & feature engineering before using visualizations and hypothesis testing to extract business insights about the CarMax trade-in process. Also created a random forest model to predict a traded-in car's value and used PCA to reduce the dimensionality of the data. | pandas, numpy, scipy, plotly, matplotlib, seaborn, jupyter notebooks, streamlit |
+| 🚗 [CarMax Analytics](https://github.com/r0hankrishnan/carmax) *Ongoing* | Python Programming & Dashboarding | Data Cleaning, EDA, Predictive Modelling, Dimensionality Reduction | (*In process of being reformatted and converted from R to Python*)  Using CarMax trade-in data from the **CarMax Analytics Case Competition**, conducted data cleaning & feature engineering before using visualizations and hypothesis testing to extract business insights about the CarMax trade-in process. Also created a random forest model to predict a traded-in car's value and used PCA to reduce the dimensionality of the data. | pandas, numpy, scipy, plotly, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
 ### ⚙️ Tools:
 - Languages:
