@@ -10,21 +10,17 @@
 - Analyzing data and generating reports using **Excel** and **Google Sheets**
 
 ### 📽 Projects:
-*This is currently a highlight of my most recent completed projects as I build out my profile, you can check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
+*This is currently a highlight of my most recent completed projects, check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
 
-#### Completed
+#### Newly Completed
 | Project Link | Technology | Area | Description | Libraries |
-|--------------|------------|------|-------------|-----------|
-| 🎸 [Song Popularity Prediction](https://github.com/r0hankrishnan/song-popularity) | R Programming & Dashboarding | Data Cleaning, EDA,  Predictive Modelling & Fine-Tuning, Dashboarding | Used R to clean, analyze, and visualize a dataset of 1200 songs with 19 characteristics. Tested several models to find which best predicted a song's popularity. Also used RShiny to create a song popularity prediction dashboard. | dplyr,  ggplot2, felm, gbm, randomForest, broom, Rshiny, leaps, glmnet |
-| 🏠 [US Housing Analysis](https://github.com/r0hankrishnan/us-housing-analysis) | R Programming & Dashboarding | Data Cleaning, EDA, Predicitve Modelling & Fine-Tuning, Reporting | Conducted an analysis of the US housing market by combining and analyzing three datasets from Kaggle.com. Created several machine learning models to predict housing price index and to used clustering techniques to further explore the data. Created simple R shiny dashboard to visualize clustering.| dplyr, ggplot2, kable, MASS, broom, modelr, purr, rpart, randomForest, caret, factoextra, cluster, Rshiny |
-| 📈 [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Python Prgramming, Tableau Dashboarding | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard. | python, pandas, tableau |
-| 🏈 [NFL Playoff Predictor](https://github.com/r0hankrishnan/nfl) | Python Progamming & Dashboarding | Data Collection, Data Wrangling & EDA, Predictive Modelling | Using self-collected data on the characteristics of NFL teams that make the playoffs, create visualizations, analyses, and predictive models with the goal of predicting a team's chance of making the playoffs based on their regular season performance. | pandas, matplotlib, seaborn, plotly, scikit-learn, jupyter notebooks, streamlit |
-
-#### Coming Soon
-| Project Link | Technology |  Area | Description | Libraries |
 |--------------|------------|-------|-------------|-----------|
 | 🚗 [CarMax Analytics](https://github.com/r0hankrishnan/carmax) *Ongoing* | Python Programming & Dashboarding | Data Cleaning, EDA, Predictive Modelling, Dimensionality Reduction | (*In process of being reformatted and converted from R to Python*)  Using CarMax trade-in data from the **CarMax Analytics Case Competition**, conducted data cleaning & feature engineering before using visualizations and hypothesis testing to extract business insights about the CarMax trade-in process. Also created a random forest model to predict a traded-in car's value and used PCA to reduce the dimensionality of the data. | pandas, numpy, scipy, plotly, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
+#### In The Works
+| Project Link | Technology | Area | Description | Libraries |
+|--------------|------------|------|-------------|-----------|
+| 🔍 8-Week SQL Challenge |	SQL, PostgreSQL | Self-Learning, Data Cleaning, Data Querying, Data Analysis |	This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. It also contains notes from each chapter from the online book Select Star SQL | DBFiddle |
 ### ⚙️ Tools:
 - Languages:
   - SQL
