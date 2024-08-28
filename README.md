@@ -20,7 +20,7 @@
 #### 🔨 In The Works:
 | Project Link | Technology | Area | Description | Libraries |
 |--------------|------------|------|-------------|-----------|
-| 🔍 8-Week SQL Challenge |	SQL, PostgreSQL | Self-Learning, Data Cleaning, Data Querying, Data Analysis |	This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. It also contains notes from each chapter from the online book Select Star SQL | DBFiddle |
+| 🔍 [8-Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql) |	SQL, PostgreSQL | Self-Learning, Data Cleaning, Data Querying, Data Analysis |	This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. It also contains notes from each chapter from the online book Select Star SQL | DBFiddle |
 ### ⚙️ Tools:
 - Languages:
   - SQL
