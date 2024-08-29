@@ -36,6 +36,8 @@
   - Freecodecamp Scientific Computing with Python
 - [Complete the 8 Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql)
 - Learn and implement the Python web app framework, Streamlit
+  - [NFL Dashboard](https://r0hankrishnan-nfl.streamlit.app/)
+  - [CarMax Dashboard](https://r0hankrishnan-carmax.streamlit.app/)
 - Build out an end-to-end data science project using an api
 
 ### 🗣 Connect with Me
