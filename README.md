@@ -6,7 +6,7 @@
 - Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
 - Developing, testing, and iterating through **predictive** and **econometric statistical** models using **R** and **Python**
-- Developing dashboards on **Tableau** or using **RShiny**
+- Developing dashboards with **Tableau**, **RShiny**, or **Streamlit**
 - Analyzing data and generating reports using **Excel** and **Google Sheets**
 
 ### 📽 Projects:
