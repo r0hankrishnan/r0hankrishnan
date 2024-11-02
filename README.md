@@ -15,7 +15,7 @@
 #### ✅ Newly Completed:
 | Project Link | Technology | Area | Description | Libraries |
 |--------------|------------|-------|-------------|-----------|
-| 🚗 [CarMax Analytics](https://github.com/r0hankrishnan/carmax) | Python Programming & Dashboarding | Data Cleaning, EDA, Predictive Modelling, Dimensionality Reduction | Using CarMax trade-in data from the **CarMax Analytics Case Competition**, conducted data cleaning & feature engineering before using visualizations and hypothesis testing to extract business insights about the CarMax trade-in process. Also created a random forest model to predict a traded-in car's value and used PCA to reduce the dimensionality of the data. | pandas, numpy, scipy, plotly, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
+| 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Python Programming, Cluster Analysis, Dashboarding | Data Cleaning, EDA, Cluster Analysis | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
 #### 🔨 In The Works:
 | Project Link | Technology | Area | Description | Libraries |
