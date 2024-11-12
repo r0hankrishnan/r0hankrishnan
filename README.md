@@ -21,9 +21,9 @@ Check out my highlighted project below. To see the rest of my projects (complete
 - Languages:
   - SQL
   - Python
-    - *Pandas, Scikit-learn, Matplotlib, Numpy, Scipy, Seaborn, Streamlit, Plotly*
+    - *Pandas, Scikit-learn, Statsmodels, Numpy, Scipy, Seaborn,  Matplotlib, Plotly, Streamlit*
   - R
-    - *Tidyverse, Ggplot, Keras, Tidymodels, Felm, RShiny, Shinydashboard*
+    - *Tidyverse, Ggplot, Keras, Tidymodels, Felm, Factoextra, Randomforest, RShiny, Shinydashboard*
 - Databases: PostgreSQL, MySQL
 - Visualization: Tableau, R, Python
 
