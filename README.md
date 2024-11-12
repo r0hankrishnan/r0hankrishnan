@@ -13,9 +13,9 @@
 *This is just a highlight of my most recent completed project(s), check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
 
 #### ✨ Highlighted:
-| Project Link | Technology | Area | Description | Libraries |
-|--------------|------------|-------|-------------|-----------|
-| 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Python Programming, Cluster Analysis, Dashboarding | Data Cleaning, EDA, Cluster Analysis | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
+| Project Link | Area | Description | Libraries |
+|--------------|------|-------------|-----------|
+| 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Data Cleaning, EDA, Cluster Analysis, Dashboarding | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
 ### ⚙️ Tools:
 - Languages:
