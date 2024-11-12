@@ -12,15 +12,11 @@
 ### 📽 Projects:
 *This is just a highlight of my most recent completed project(s), check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
 
-#### ✅ Newly Completed:
+#### ✨ Highlighted:
 | Project Link | Technology | Area | Description | Libraries |
 |--------------|------------|-------|-------------|-----------|
 | 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Python Programming, Cluster Analysis, Dashboarding | Data Cleaning, EDA, Cluster Analysis | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
-#### 🔨 In The Works:
-| Project Link | Technology | Area | Description | Libraries |
-|--------------|------------|------|-------------|-----------|
-| 🔍 [8-Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql) |	SQL, PostgreSQL | Self-Learning, Data Cleaning, Data Querying, Data Analysis |	This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. It also contains notes from each chapter from the online book Select Star SQL | DBFiddle |
 ### ⚙️ Tools:
 - Languages:
   - SQL
