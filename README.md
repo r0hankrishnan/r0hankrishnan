@@ -18,14 +18,14 @@ Check out my highlighted project below. To see the rest of my projects (complete
 | 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Data Cleaning, EDA, Cluster Analysis, Dashboarding | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
 ### ⚙️ Tools:
-- Languages:
+- **Languages**:
   - SQL
   - Python
     - *Pandas, Scikit-learn, Statsmodels, Numpy, Scipy, Seaborn,  Matplotlib, Plotly, Streamlit*
   - R
     - *Tidyverse, Ggplot, Keras, Tidymodels, Felm, Factoextra, Randomforest, RShiny, Shinydashboard*
-- Databases: PostgreSQL, MySQL
-- Visualization: Tableau, R, Python
+- **Databases**: PostgreSQL, MySQL
+- **Visualization**: Tableau, R, Python
 
 ### 🤓 Current Learning Goals/Projects:
 - [Complete the 8 Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql)
