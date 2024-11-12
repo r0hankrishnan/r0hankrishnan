@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rohan
 
-#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm also a huge tennis nerd 🎾 🤓 and self-learner with a passion using data and analytics to drive positive change! 
+#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm also a big tennis fan 🎾 and self-learner 🤓 with a passion using data and analytics to drive positive change! 
 
 ### 🔑 Key Skills:
 - Querying data using **SQL**
