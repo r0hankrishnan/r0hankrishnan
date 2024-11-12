@@ -20,8 +20,10 @@ Check out my highlighted project below. To see the rest of my projects (complete
 ### ⚙️ Tools:
 - Languages:
   - SQL
-  - Python [Pandas, Scikit-learn, Matplotlib, Numpy, Scipy, Seaborn, Streamlit, Plotly]
-  - R [Tidyverse, Ggplot, Keras, Tidymodels, Felm, RShiny, Shinydashboard]
+  - Python
+    - *Pandas, Scikit-learn, Matplotlib, Numpy, Scipy, Seaborn, Streamlit, Plotly*
+  - R
+    - *Tidyverse, Ggplot, Keras, Tidymodels, Felm, RShiny, Shinydashboard*
 - Databases: PostgreSQL, MySQL
 - Visualization: Tableau, R, Python
 
