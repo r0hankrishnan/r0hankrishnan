@@ -10,7 +10,7 @@
 - Analyzing data and generating reports using **Excel** and **Google Sheets**
 
 ### 📽 Projects:
-*This is just a highlight of my most recent completed project(s), check out my full [portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md) to see all of my projects (completed and ongoing)!*  
+Check out my highlighted project below. To see the rest of my projects (completed and ongoing), check out my full [project portfolio](https://github.com/r0hankrishnan/portfolio/blob/main/README.md)!*  
 
 #### ✨ Highlighted:
 | Project Link | Area | Description | Libraries |
