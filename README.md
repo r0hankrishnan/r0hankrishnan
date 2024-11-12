@@ -33,7 +33,7 @@ Check out my highlighted project below. To see the rest of my projects (complete
 - Create a RAG application using an open-source LLM
 
 ### 🗣 Connect with Me
-- Check out my [data science portfolio](https://www.datascienceportfol.io/rohankrish20)
+- Check out my [Data Science Portfolio](https://www.datascienceportfol.io/rohankrish20)
 - Connect with me on [LinkedIn](https://linkedin.com/in/rohankrish)
 - Follow my learning journey on [Medium](https://medium.com/@rohan.krishnan)
 - Check out some of my work on [Tableau Public](https://public.tableau.com/app/profile/rohan.krishnan4713/vizzes)
