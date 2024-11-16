@@ -4,7 +4,7 @@
 
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
-
+<hr></hr>
 <div>
   <span>
     <p>
@@ -14,6 +14,7 @@
     </p>
   </span>
 </div>
+
 ### Key Skills:
 - Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
