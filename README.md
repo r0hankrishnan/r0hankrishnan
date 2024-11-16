@@ -4,6 +4,8 @@
 
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
+<a target = "_blank" src = "https://www.datascienceportfol.io/rohankrish20"> Check out my online portfolio here. </a>
+
 ### Key Skills:
 - Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
