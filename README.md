@@ -5,7 +5,7 @@
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
 <p>
-  <a target = "_blank" src = "https://www.datascienceportfol.io/rohankrish20"> 
+  <a target = "_blank" href = "https://www.datascienceportfol.io/rohankrish20"> 
     Check out my online portfolio here. 
   </a>
 </p>
