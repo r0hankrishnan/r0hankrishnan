@@ -15,6 +15,7 @@
   </span>
 </div>
 
+---
 ### Key Skills:
 - Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
