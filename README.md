@@ -4,7 +4,11 @@
 
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
-<p><a target = "_blank" src = "https://www.datascienceportfol.io/rohankrish20"> Check out my online portfolio here. </a></p>
+<p>
+  <a target = "_blank" src = "https://www.datascienceportfol.io/rohankrish20"> 
+    Check out my online portfolio here. 
+  </a>
+</p>
 
 ### Key Skills:
 - Querying data using **SQL**
