@@ -5,7 +5,7 @@
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
 <hr></hr>
-<div>
+<div style = "display: row">
   <span>
     <p>
       <a target = "_blank" href = "https://www.datascienceportfol.io/rohankrish20"> 
