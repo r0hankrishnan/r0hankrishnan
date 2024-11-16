@@ -1,22 +1,11 @@
 # Hi, I'm Rohan
 
-#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm a self-learner with a passion for using data and analytics to drive positive change. I'm also a big tennis fan!
-
 [Chek out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
-<hr></hr>
-<div style = "display: row">
-  <span>
-    <p>
-      <a target = "_blank" href = "https://www.datascienceportfol.io/rohankrish20"> 
-        Check out my online portfolio here. 
-      </a>
-    </p>
-  </span>
-  <p>Cool Stuff</p>
-</div>
+#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm a self-learner with a passion for using data and analytics to drive positive change. I'm also a big tennis fan!
 
----
+
+
 ### Key Skills:
 - Querying data using **SQL**
 - Manipulating, cleaning and analyzing data using **R** and/or **Python**
