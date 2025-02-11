@@ -29,11 +29,6 @@ Check out my highlighted project below. To see the rest of my projects (complete
 - **Databases**: PostgreSQL, MySQL
 - **Visualization**: Tableau, R, Python
 
-### Current Learning Goals/Projects:
-- [Complete the 8 Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql)
-- Build out an end-to-end data science project using an api
-- Create a RAG application using an open-source LLM
-
 ### Connect with Me
 - Check out my [Data Science Portfolio](https://www.datascienceportfol.io/rohankrish20)
 - Connect with me on [LinkedIn](https://linkedin.com/in/rohankrish)
