@@ -1,6 +1,6 @@
 # Hi, I'm Rohan
 
-#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm a self-learner with a passion for using data and analytics to drive positive change. I'm also a big tennis fan!
+#### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm a self-learner with a passion for using data and analytics to drive positive change.
 
 [Check out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
 
@@ -10,14 +10,6 @@
 - Developing, testing, and iterating through **predictive** and **econometric statistical** models using **R** and **Python**
 - Developing dashboards with **Tableau**, **RShiny**, or **Streamlit**
 - Analyzing data and generating reports using **Excel** and **Google Sheets**
-
-### Projects:
-Check out my highlighted project below. To see the rest of my projects (completed and ongoing), check out a full list of my [projects](https://github.com/r0hankrishnan/projects/blob/main/README.md)!
-
-#### Highlighted:
-| Project Link | Area | Description | Libraries |
-|--------------|------|-------------|-----------|
-| 🛍️ [Retail Analysis](https://github.com/r0hankrishnan/retail_analysis) | Data Cleaning, EDA, Cluster Analysis, Dashboarding | Using retail data from a UK online store, conducted data cleaning & feature engineering before using visualizations KMeans clustering to extract business insights about the store's various customer segments. Also created a simple streamlit dashboard to explore the store's sales by country. | pandas, numpy, pyperclip, matplotlib, seaborn, jupyter notebooks, scikit-learn, streamlit |
 
 ### Tools:
 - **Languages**:
