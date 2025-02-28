@@ -1,7 +1,5 @@
 # Hi, I'm Rohan
 
-![image](https://github.com/user-attachments/assets/8189355a-9448-4fa4-a007-0e290224f50a)
-
 #### I'm a recent graduate with majors in Economics and BIS, a minor in Applied Statistics, and a certificate in Business Analytics. I'm a self-learner with a passion for using data and analytics to drive positive change.
 
 [Check out my online portfolio here.](https://www.datascienceportfol.io/rohankrish20)
