@@ -3,7 +3,7 @@
 #### I like to use data to turn messy questions into meaningful insights that drive fairness, sustainability, and long-term impact.
 
 ## Education
-- Incoming MSE Data Science **@UPenn** [*Expected* 2025-2027]
+- Incoming MSE Data Science **@UPenn** [*Expected 2025-2027*]
 - Honors B.S. in Business Administration (Business Information Systems) **@Pitt** [2020-2024]
   - Certificate in Business Analytics 
 - Honors B.S. in Economics **@Pitt** [2020-2024]
