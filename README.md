@@ -6,4 +6,4 @@ I hold two Bachelor of Science degrees: one in Economics with a minor in Applied
 
 I'm currently seeking full time roles in data analystics, business intelligence, and product analytics. Please don't hesitate to reach out with any questions!
 
-My pinned repositories below are examples of my work in using Python and R to manage data, analyze data, draw business insights from complex data, and create internal data products like dashboards. 
+My pinned repositories below are examples of my work in using Python and R to manage/clean/analyze/draw business insights from complex dataand create internal data products like dashboards. 
