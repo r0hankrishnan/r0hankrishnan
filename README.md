@@ -1,9 +1,7 @@
 # Hi, I'm Rohan.
 
-#### I like using data to solve hard problems.
+#### I like using data to solve interesting problems.
 
-I hold two Bachelor of Science degrees: one in Economics with a minor in Applied Statistics and another in Business Information Systems with a certificate in Business Analytics. Understading how data can be used to solve ambigous and important problems has been the focus of both my degree programs. I am passionate about making sure that any analysis I do has **tangible** business impact.
+I hold two honors Bachelor of Science degrees: one in Economics with a minor in Applied Statistics and another in Business Information Systems with a certificate in Business Analytics. Understading how data can be used to solve ambigous and important problems has been the focus of both my degree programs. I am passionate about making sure that any analysis I do has **tangible** business impact. I am currently pursuing an M.S.E. in Data Science at the Univeristy of Pennsylvania. 
 
-I'm currently seeking full time roles in data analystics, business intelligence, and product analytics. Please don't hesitate to reach out with any questions!
-
-My pinned repositories below are examples of my work in using Python and R to manage/clean/analyze/draw business insights from complex dataand create internal data products like dashboards. 
+I'm currently seeking summer internships in data science, data analytics, and product analytics. Please don't hesitate to reach out with any questions!
