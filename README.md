@@ -12,6 +12,6 @@ Interested in:
 
 Tech: Python, SQL, R, Pandas, NumPy, Scikit-Learn, PyTorch, Tableau
 
-Currently seeking Summer 2026 internships in data science, data analytics, or product analytics.
+Always open to working on cool projects :)
 
-[LinkedIn](https://www.linkedin.com/rohankrish) | [Email](mailto:krishnan.rohan@outlook.com) | [medium](https://www.medium.com/@rohan.krishnan)
+[LinkedIn](https://www.linkedin.com/rohankrish) | [Email](mailto:krishnan.rohan@outlook.com) | [Medium](https://www.medium.com/@rohan.krishnan)
